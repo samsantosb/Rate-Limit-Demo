@@ -1,4 +1,7 @@
-# node server
-# node load
+#Para validar o rate-limit
+
+node server
+
+node load
 
 seja feliz
